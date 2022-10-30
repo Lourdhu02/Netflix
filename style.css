@@ -1,0 +1,253 @@
+@charset "utf-8";
+body {
+  background-color: gray;
+}
+h1 {
+  color: white;
+  padding-left: 455px;
+  padding-top: 200px;
+  font-size: 65px;
+  margin: auto;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+h2 {
+  color: white;
+  padding-left: 568px;
+  font-size: 26px;
+  padding-top: 0.2px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+h3 {
+  color: white;
+  padding-left: 445px;
+
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+#mail {
+  color: black;
+  margin-left: 410px;
+  font-size: 16px;
+  padding-right: 302px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+#button1 {
+  color: white;
+  background-color: red;
+  padding-top: 15px;
+  margin-right: 0%;
+  padding-bottom: 18px;
+  padding-right: 70px;
+  padding-left: 32px;
+  font-size: 24px;
+
+  text-align: center;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#button2 {
+  background-color: red;
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 1400px;
+  font-size: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+#maininterface {
+  background-image: url(background.jpg);
+  width: 101%;
+  height: 888px;
+  opacity: 0.7;
+}
+#pic {
+  position: absolute;
+  padding-left: 52%;
+  top: 20%;
+  opacity: 0.6;
+}
+#logo {
+  padding-top: 20px;
+  padding-left: 20px;
+  opacity: 1;
+}
+
+#secound {
+  position: absolute;
+  width: 100%;
+  height: 500px;
+  top: 900px;
+  background-color: black;
+}
+#set1 {
+  padding-top: 150px;
+  padding-left: 225px;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#set2 {
+  padding-left: 225px;
+  color: white;
+  font-size: 26px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+#pic1 {
+  position: absolute;
+  left: 15%;
+  top: 18%;
+}
+#third {
+  position: absolute;
+  background-color: black;
+  top: 1404px;
+  width: 100%;
+  height: 500px;
+}
+#set3 {
+  padding-top: 150px;
+  padding-left: 52%;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#set4 {
+  padding-left: 52%;
+  color: white;
+  font-size: 26px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+#pic3 {
+  position: absolute;
+  padding-left: 22%;
+  top: 20%;
+}
+#fourth {
+  position: absolute;
+  background-color: black;
+  top: 1909px;
+  width: 100%;
+  height: 500px;
+}
+#set5 {
+  padding-top: 150px;
+  padding-left: 225px;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#set6 {
+  padding-left: 225px;
+  color: white;
+  font-size: 26px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+#fifth {
+  position: absolute;
+  background-color: black;
+  top: 2413px;
+  width: 100%;
+  height: 500px;
+}
+#set7 {
+  padding-top: 150px;
+  padding-left: 52%;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+#set8 {
+  padding-left: 52%;
+  color: white;
+  font-size: 26px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+#pic4 {
+  position: absolute;
+  left: 15%;
+  top: 18%;
+  opacity: 0.5;
+}
+#sixth {
+  position: absolute;
+  background-color: black;
+  top: 2917px;
+  width: 100%;
+  height: 700px;
+}
+#set10 {
+  padding-top: 40px;
+  padding-left: 60px;
+  color: gray;
+}
+#set10 a {
+  color: gray;
+  text-decoration: none;
+}
+#set9 ul {
+  list-style: none;
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+#set9 li {
+  display: inline-block;
+}
+#set9 a {
+  text-decoration: none;
+  color: gray;
+  width: 100px;
+  display: inline;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+#set9 a:hover {
+  color: crimson;
+}
+#set10 a:hover {
+  color: crimson;
+}
+#profile {
+  position: absolute;
+  left: 40%;
+  top: 25%;
+  opacity: 0.5;
+}
+#credit {
+  position: absolute;
+  left: 45%;
+  top: 70%;
+  font-size: medium;
+  font-family: sans-serif;
+  color: gray;
+}
+#name {
+  position: absolute;
+  left: 50%;
+  top: 70%;
+  font-size: medium;
+  font-family: sans-serif;
+  color: crimson;
+}
